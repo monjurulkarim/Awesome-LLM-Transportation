@@ -75,7 +75,7 @@ _Adapting LLMs for time-series forecasting via textualization, reprogramming, or
     
 - **ST-LLM:** Spatial-Temporal Large Language Model for Traffic Prediction (Liu et al., 2024b) - [GitHub](https://github.com/ChenxiLiu-HNU/ST-LLM "null")
     
-- **TrafficGPT:** Viewing, processing and interacting with traffic foundation models (Zhang et al., 2024e) - [ScienceDirect](https://www.google.com/search?q=https://doi.org/10.1016/j.tranpol.2024.05.016 "null")
+- **TrafficGPT:** Viewing, processing and interacting with traffic foundation models (Zhang et al., 2024e) - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0967070X24000726?casa_token=85Sqs113XgIAAAAA:nx9ar0jITg18TMZ9kCwFJymE46k682kd2yaZuq92DZAUJgZJNTSof6HwVZhu94G4Rwo9TkTJd-k "null")
     
 - **UrbanGPT:** Spatio-Temporal Large Language Models (Li et al., 2024e) - [arXiv](https://arxiv.org/abs/2403.00813 "null")
     
