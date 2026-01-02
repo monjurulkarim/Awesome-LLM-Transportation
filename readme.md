@@ -28,41 +28,41 @@ If you find this list or our review useful for your research, please cite our pa
 
 ## 📋 Taxonomy & Contents
 
-- [1. Mobility Enhancement](https://www.google.com/search?q=%231-mobility-enhancement "null")
+- [1. Mobility Enhancement](#1-mobility-enhancement)
     
-    - [Traffic Flow Prediction](https://www.google.com/search?q=%23traffic-flow-prediction "null")
+    - [Traffic Flow Prediction](#traffic-flow-prediction)
         
-    - [Traffic Data Analysis & Decision Support](https://www.google.com/search?q=%23traffic-data-analysis--decision-support "null")
+    - [Traffic Data Analysis & Decision Support](#traffic-data-analysis--decision-support)
         
-    - [Traffic Signal Control](https://www.google.com/search?q=%23traffic-signal-control "null")
+    - [Traffic Signal Control](#traffic-signal-control)
         
-    - [Human Mobility & Trip Planning](https://www.google.com/search?q=%23human-mobility--trip-planning "null")
+    - [Human Mobility & Trip Planning](#human-mobility--trip-planning)
         
-    - [Trajectory Prediction](https://www.google.com/search?q=%23trajectory-prediction "null")
+    - [Trajectory Prediction](#trajectory-prediction)
         
-    - [Simulation & Scenario Generation](https://www.google.com/search?q=%23simulation--scenario-generation "null")
+    - [Simulation & Scenario Generation](#simulation--scenario-generation)
         
-    - [Mode Choice & Parking](https://www.google.com/search?q=%23mode-choice--parking "null")
+    - [Mode Choice & Parking](#mode-choice--parking)
         
-- [2. Roadway Safety Enhancement](https://www.google.com/search?q=%232-roadway-safety-enhancement "null")
+- [2. Roadway Safety Enhancement](#2-roadway-safety-enhancement)
     
-    - [Crash Data Analysis & Reporting](https://www.google.com/search?q=%23crash-data-analysis--reporting "null")
+    - [Crash Data Analysis & Reporting](#crash-data-analysis--reporting)
         
-    - [Driver Behavior & Risk Assessment](https://www.google.com/search?q=%23driver-behavior--risk-assessment "null")
+    - [Driver Behavior & Risk Assessment](#driver-behavior--risk-assessment)
         
-    - [Pedestrian Safety](https://www.google.com/search?q=%23pedestrian-safety "null")
+    - [Pedestrian Safety](#pedestrian-safety)
         
-    - [Traffic Rule Compliance](https://www.google.com/search?q=%23traffic-rule-compliance "null")
+    - [Traffic Rule Compliance](#traffic-rule-compliance)
         
-    - [Near-Miss Detection & Scene Understanding](https://www.google.com/search?q=%23near-miss-detection--scene-understanding "null")
+    - [Near-Miss Detection & Scene Understanding](#near-miss-detection--scene-understanding)
         
-- [3. Enabling Technologies](https://www.google.com/search?q=%233-enabling-technologies "null")
+- [3. Enabling Technologies](#3-enabling-technologies)
     
-    - [V2X & Cooperative Driving](https://www.google.com/search?q=%23v2x--cooperative-driving "null")
+    - [V2X & Cooperative Driving](#v2x--cooperative-driving)
         
-    - [Edge Computing & Efficiency](https://www.google.com/search?q=%23edge-computing--efficiency "null")
+    - [Edge Computing & Efficiency](#edge-computing--efficiency)
         
-    - [Explainability & Safety Assurance](https://www.google.com/search?q=%23explainability--safety-assurance "null")
+    - [Explainability & Safety Assurance](#explainability--safety-assurance)
         
 
 ## 1. Mobility Enhancement
@@ -319,6 +319,3 @@ This is a living repository. We welcome contributions from the community!
 3. Submit a **Pull Request**.
     
 
-## 📞 Contact
-
-For questions regarding the review paper, please contact the corresponding authors via the [Journal Page](https://doi.org/10.1016/j.ait.2025.100004 "null").
