@@ -68,7 +68,7 @@ _Adapting LLMs for time-series forecasting via textualization, reprogramming, or
 
 _Natural language interfaces for querying databases and orchestrating analysis tools._
 
-- **Mobility ChatBot:** Supporting decision making in mobility data with chatbots (Padoan et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10555296)
+- **Mobility ChatBot:** Supporting decision making in mobility data with chatbots (Padoan et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10591685)
 - **TP-GPT:** Real-time data informed intelligent chatbot for transportation surveillance (Wang et al., 2024a) - [arXiv](https://arxiv.org/abs/2405.03076)
 - **IDM-GPT:** Independent Mobility GPT for customized traffic mobility analysis (Yang et al., 2025a) - [arXiv](https://arxiv.org/abs/2502.18652)
 - **STAR:** Text-to-SQL for ITS (Cai et al., 2022) - [arXiv](https://arxiv.org/abs/2210.11888)
@@ -82,11 +82,11 @@ _Natural language interfaces for querying databases and orchestrating analysis t
 _LLMs acting as decision-making agents or assisting in control logic design._
 
 - **LLMLight:** Large Language Models as Traffic Signal Control Agents (Lai et al., 2023) - [arXiv](https://arxiv.org/abs/2305.07436)
-- **Digital Traffic Engineers:** Large Language Model-Powered Digital Traffic Engineers (Dai et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10472483)
+- **Digital Traffic Engineers:** Large Language Model-Powered Digital Traffic Engineers (Dai et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10660467)
 - **LA-Light:** Leveraging LLM Capabilities for Human-Mimetic Traffic Signal Control (Wang et al., 2024d) - [arXiv](https://arxiv.org/abs/2403.08337)
 - **iLLM-TSC:** Integration Reinforcement Learning and LLM for Traffic Signal Control (Pang et al., 2024) - [arXiv](https://arxiv.org/abs/2407.06025)
-- **RAGTraffic:** Utilizing RAG for Intelligent Traffic Signal Control (Zhang et al., 2024f) - [IEEE](https://ieeexplore.ieee.org/document/10636272)
-- **LLM-Assisted Arterial Control:** (Tang et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10472490)
+- **RAGTraffic:** Utilizing RAG for Intelligent Traffic Signal Control (Zhang et al., 2024f) - [IEEE](https://ieeexplore.ieee.org/document/10919289)
+- **LLM-Assisted Arterial Control:** (Tang et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10488379)
 - **PromptGAT:** LLM powered sim-to-real transfer for traffic signal control (Da et al., 2023) - [arXiv](https://arxiv.org/abs/2308.14284)
 - **4D Traffic Control Framework:** (Masri et al., 2025) - [Paper](https://www.mdpi.com/2624-8921/7/1/11)
 
@@ -96,10 +96,10 @@ _Predicting next locations, synthesizing travel patterns, and itinerary planning
 
 - **NextLocLLM:** Next Location Prediction using LLMs (Liu et al., 2024c) - [arXiv](https://arxiv.org/abs/2410.09129)
 - **AgentMove:** Predicting Human Mobility Anywhere (Feng et al., 2024) - [arXiv](https://arxiv.org/abs/2408.13986)
-- **HMP-LLM:** Human Mobility Prediction based on Pre-trained LLMs (Zhong et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10620835)
-- **Mobility-LLM:** Learning visiting intentions and travel preference (Gong et al., 2024) - [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c5ef9c4c3d5e9c5a5c5c5c5c5c5c5c5c-Abstract-Conference.html)
+- **HMP-LLM:** Human Mobility Prediction based on Pre-trained LLMs (Zhong et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10778764)
+- **Mobility-LLM:** Learning visiting intentions and travel preference (Gong et al., 2024) - [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/3fb6c52aeb11e09053c16eabee74dd7b-Paper-Conference.pdf)
 - **ITINERA:** Synergizing spatial optimization with LLMs for itinerary planning (Tang et al., 2024c) - [arXiv](https://arxiv.org/abs/2402.07204)
-- **Intelligent Trip Planning:** Framework for LLM-powered trip planning (Pio et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10722945)
+- **Intelligent Trip Planning:** Framework for LLM-powered trip planning (Pio et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10771388)
 - **LingoTrip:** Spatiotemporal context prompt driven LLM for trip prediction (Qin et al., 2025) - [Paper](https://www.sciencedirect.com/science/article/pii/S1077291X24001309)
 
 ### Trajectory Prediction
