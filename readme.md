@@ -144,9 +144,9 @@ _Extracting structured insights from unstructured narratives and reports._
 - **TrafficSafetyGPT:** Tuning a Pre-trained LLM to a Domain-Specific Expert (Zheng et al., 2023) - [arXiv](https://arxiv.org/abs/2307.15311)
 - **Crash Severity Analysis with CoT:** (Zhen et al., 2024) - [Paper](https://www.mdpi.com/2073-431X/13/9/232)
 - **AccidentGPT:** Accident Analysis from V2X Perception (Wang et al., 2023) - [arXiv](https://arxiv.org/abs/2312.13156)
-- **Uncovering Underreporting in Crashes:** (Arteaga & Park, 2025) - [Paper](https://doi.org/10.1016/j.jsr.2024.12.006)
+- **Uncovering Underreporting in Crashes:** (Arteaga & Park, 2025) - [Paper](https://www.sciencedirect.com/science/article/pii/S0022437524001580?casa_token=dIrD-QCnuLQAAAAA:Ike09MY1EzRaWo5FCvnt91tv7NJqeABd_ALVzK85ChzuFSL05eDR_9FdaVeCsLdjmpnND0_XMj0)
 - **Hybrid ML for Crash Severity:** (Grigorev et al., 2024) - [arXiv](https://arxiv.org/abs/2403.12536)
-- **RTC Analysis using Twitter:** (Jaradat et al., 2024b) - [Paper](https://www.mdpi.com/2624-6511/7/5/2465)
+- **RTC Analysis using Twitter:** (Jaradat et al., 2024b) - [Paper](https://link.springer.com/chapter/10.1007/978-3-031-82377-0_22)
 
 ### Driver Behavior & Risk Assessment
 
