@@ -192,22 +192,22 @@ _Translating natural language traffic laws into formal logic for AVs._
 ### V2X & Cooperative Driving
 
 - **V2X-LLM:** Enhancing V2X Integration and Understanding (Wu et al., 2025) - [arXiv](https://arxiv.org/abs/2503.02239)
-- **CoDrivingLLM:** Interactive and Learnable Cooperative Driving (Fang et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10817854)
+- **CoDrivingLLM:** Interactive and Learnable Cooperative Driving (Fang et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10933798)
 - **V2X-VLM:** End-to-end V2X cooperative driving (You et al., 2024) - [arXiv](https://arxiv.org/abs/2408.09251)
-- **BlockLLM:** Decentralized vehicular network architecture (Arshad & Halim, 2025) - [Paper](https://doi.org/10.1016/j.compeleceng.2024.110027)
+- **BlockLLM:** Decentralized vehicular network architecture (Arshad & Halim, 2025) - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009522?via%3Dihub)
 
 ### Edge Computing & Efficiency
 
-- **Edge Computing Enabled Traffic Prediction:** (Rong et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10636272)
-- **Lightweight Spatio-temporal LLM on Edge:** (Rong et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10830685)
+- **Edge Computing Enabled Traffic Prediction:** (Rong et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10682107)
+- **Lightweight Spatio-temporal LLM on Edge:** (Rong et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10742575)
 - **Efficient Driving Behavior Narration on Edge:** (Huang et al., 2024a) - [arXiv](https://arxiv.org/abs/2409.20364)
 - **ScaleLLM:** Resource-frugal LLM serving (Yao et al., 2024) - [arXiv](https://arxiv.org/abs/2408.00008)
 
 ### Explainability & Safety Assurance
 
-- **xTP-LLM:** Explainable Traffic Flow Prediction (Guo et al., 2024b) - [Paper](https://doi.org/10.1016/j.ctrf.2024.100150)
-- **Safety Case Generation with GPT-4:** (Sivakumar et al., 2024) - [Paper](https://doi.org/10.1016/j.eswa.2024.124653)
-- **CrashEventLLM:** Predicting system crashes (Mudgal et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10768645)
+- **xTP-LLM:** Explainable Traffic Flow Prediction (Guo et al., 2024b) - [Paper](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
+- **Safety Case Generation with GPT-4:** (Sivakumar et al., 2024) - [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424015203)
+- **CrashEventLLM:** Predicting system crashes (Mudgal et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10762255)
 
 ## 🤝 Contributing
 
