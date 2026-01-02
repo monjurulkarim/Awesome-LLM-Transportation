@@ -87,7 +87,7 @@ _Adapting LLMs for time-series forecasting via textualization, reprogramming, or
     
 - **LLM4TS:** Two-stage fine-tuning for time-series forecasting (Chang et al., 2023) - [arXiv](https://arxiv.org/abs/2308.08469 "null")
     
-- **Enhancing traffic prediction with textual data:** (Huang, 2024) - [Google Scholar](https://www.google.com/search?q=https://scholar.google.com/scholar%3Fq%3DEnhancing%2Btraffic%2Bprediction%2Bwith%2Btextual%2Bdata%2Busing%2Blarge%2Blanguage%2Bmodels%2BHuang%2B2024 "null")
+- **Enhancing traffic prediction with textual data:** (Huang, 2024) - [arXiv](https://arxiv.org/pdf/2405.06719?"null")
     
 
 ### Traffic Data Analysis & Decision Support
