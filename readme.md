@@ -2,8 +2,8 @@
 
 **Official repository for the comprehensive review paper:**
 
-> "Large language models and their applications in roadway safety and mobility enhancement: A comprehensive review"
-> 
+<a href ="https://arxiv.org/abs/2506.06301"> "Large language models and their applications in roadway safety and mobility enhancement: A comprehensive review"</a>
+ 
 > Published in Artificial Intelligence for Transportation (2025)
 
 This repository serves as a **living collection** of the resources, datasets, and papers reviewed in our article. It is curated to help researchers explore the intersection of Large Language Models (LLMs) and Intelligent Transportation Systems (ITS).
