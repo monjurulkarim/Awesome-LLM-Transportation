@@ -60,7 +60,7 @@ _Adapting LLMs for time-series forecasting via textualization, reprogramming, or
 - **UrbanGPT:** Spatio-Temporal Large Language Models (Li et al., 2024e) - [arXiv](https://arxiv.org/abs/2403.00813)
 - **TIME-LLM:** Time Series Forecasting by Reprogramming Large Language Models (Jin et al., 2023) - [arXiv](https://arxiv.org/abs/2310.01728)
 - **TPLLM:** A Traffic Prediction Framework Based on Pretrained Large Language Models (Ren et al., 2024) - [arXiv](https://arxiv.org/abs/2403.02221)
-- **Lag-Llama:** Towards foundation models for time series forecasting (Rasul et al., 2023) - [arXiv](https://arxiv.org/abs/2310.08276)
+- **Lag-Llama:** Towards foundation models for time series forecasting (Rasul et al., 2023) - [arXiv](https://arxiv.org/pdf/2310.08278)
 - **LLM4TS:** Two-stage fine-tuning for time-series forecasting (Chang et al., 2023) - [arXiv](https://arxiv.org/abs/2308.08469)
 - **Enhancing traffic prediction with textual data:** (Huang, 2024) - [arXiv](https://arxiv.org/abs/2405.06719)
 
