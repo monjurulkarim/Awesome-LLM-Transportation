@@ -74,7 +74,7 @@ _Natural language interfaces for querying databases and orchestrating analysis t
 - **STAR:** Text-to-SQL for ITS (Cai et al., 2022) - [arXiv](https://arxiv.org/abs/2210.11888)
 - **BIRD:** Text-to-SQL benchmark (Li et al., 2023a) - [arXiv](https://arxiv.org/abs/2305.03111)
 - **ChatTraffic:** Text-to-traffic generation via diffusion model (Zhang et al., 2024a) - [GitHub](https://github.com/ChyaZhang/ChatTraffic)
-- **MetRoBERTa:** Transit Customer Feedback Analysis (Leong et al., 2024) - [Paper](https://journals.sagepub.com/doi/10.1177/03611981241234622)
+- **MetRoBERTa:** Transit Customer Feedback Analysis (Leong et al., 2024) - [Paper](https://journals.sagepub.com/doi/pdf/10.1177/03611981231225655?casa_token=JYLEhsb3CRgAAAAA:9A3ldLUR-KBaxm8n0bnBleLjZgz7om7KwBGtnLdNb64SZ0I1SfGyTjGm4mqrqq8D0mUipAm63jdZeA)
 - **Leveraging LLMs for Transit Services:** (Wang & Shalaby, 2024) - [arXiv](https://arxiv.org/abs/2410.14147)
 
 ### Traffic Signal Control
