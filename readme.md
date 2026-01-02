@@ -153,39 +153,39 @@ _Extracting structured insights from unstructured narratives and reports._
 _Monitoring driver states (distraction, fatigue) and risky behaviors._
 
 - **DDLM:** Integrating Visual LLM for Driver Behavior Analysis (Zhang et al., 2024b) - [Paper](https://doi.org/10.1016/j.aap.2024.107497)
-- **SurrealDriver:** Generative Driver Agent Framework (Jin et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10802159)
+- **SurrealDriver:** Generative Driver Agent Framework (Jin et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10802229)
 - **LanguageMPC:** LLMs as Decision Makers for Autonomous Driving (Sha et al., 2023) - [arXiv](https://arxiv.org/abs/2310.03026)
 - **Multi-Frame VLM for Driver Analysis:** (Takato et al., 2024) - [arXiv](https://arxiv.org/abs/2408.01682)
-- **Driving Style Alignment:** (Yang et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10802238)
-- **Text-to-Drive:** (Nguyen et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10802328)
+- **Driving Style Alignment:** (Yang et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10802629)
+- **Text-to-Drive:** (Nguyen et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10801754)
 - **SenseRAG:** Environmental Knowledge Bases for AD (Luo et al., 2025) - [CVF](https://openaccess.thecvf.com/content/WACV2025W/LLVMAD/html/Luo_SenseRAG_Constructing_Environmental_Knowledge_Bases_with_Proactive_Querying_for_LLM-Based_WACVW_2025_paper.html)
 
 ### Pedestrian Safety
 
 _Pedestrian intention prediction and safety monitoring._
 
-- **PedVLM:** Pedestrian VLM for Intentions Prediction (Munir et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10839577)
+- **PedVLM:** Pedestrian VLM for Intentions Prediction (Munir et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10938210)
 - **VTPM:** Video-to-Text Pedestrian Monitoring (Abdelrahman et al., 2024) - [arXiv](https://arxiv.org/abs/2408.11649)
 - **RAG-Based VRU Prediction:** (Hussien et al., 2025) - [Paper](https://doi.org/10.1016/j.eswa.2024.125914)
-- **Walk-the-Talk:** LLM Driven Pedestrian Motion Generation (Ramesh & Flohr, 2024) - [IEEE](https://ieeexplore.ieee.org/document/10588625)
-- **GPT-4V for Street Crossing Safety:** (Hwang et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10611726)
+- **Walk-the-Talk:** LLM Driven Pedestrian Motion Generation (Ramesh & Flohr, 2024) - [IEEE](https://ieeexplore.ieee.org/document/10588860)
+- **GPT-4V for Street Crossing Safety:** (Hwang et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10597464)
 
 ### Traffic Rule Compliance
 
 _Translating natural language traffic laws into formal logic for AVs._
 
-- **TR2MTL:** Metric Temporal Logic Formalization of Traffic Rules (Manas et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10588722)
+- **TR2MTL:** Metric Temporal Logic Formalization of Traffic Rules (Manas et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10588650)
 - **Driving with Regulation:** Interpretable Decision-Making (Cai et al., 2024) - [arXiv](https://arxiv.org/abs/2410.04759)
-- **LLM-Enhanced RL for Ramp Merging:** (Yin et al., 2024) - [Springer](https://link.springer.com/chapter/10.1007/978-981-96-0351-0_27)
+- **LLM-Enhanced RL for Ramp Merging:** (Yin et al., 2024) - [Springer](https://link.springer.com/chapter/10.1007/978-981-96-3965-6_38)
 
 ### Near-Miss Detection & Scene Understanding
 
-- **Near-Miss Detection with MLLMs:** (Jaradat et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10839629)
+- **Near-Miss Detection with MLLMs:** (Jaradat et al., 2025) - [IEEE](https://ieeexplore.ieee.org/document/10820995)
 - **Automated Detection of Safety-Critical Events:** (Abu Tami et al., 2024) - [Paper](https://www.mdpi.com/2624-8921/6/3/1571)
 - **MAPLM:** Real-world large-scale vision-language benchmark (Cao et al., 2024) - [CVF](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.html)
-- **LingoQA:** Visual Question Answering for Autonomous Driving (Marcu et al., 2024) - [ECCV](https://link.springer.com/chapter/10.1007/978-3-031-72764-1_15)
+- **LingoQA:** Visual Question Answering for Autonomous Driving (Marcu et al., 2024) - [arXiv](https://arxiv.org/pdf/2312.14115)
 - **TRIVIA:** Traffic-Domain VQA with Knowledge Injection (Qasemi et al., 2023) - [arXiv](https://arxiv.org/abs/2307.09636)
-- **Traffic Event VQA:** (Guo et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10543362)
+- **Traffic Event VQA:** (Guo et al., 2024a) - [IEEE](https://ieeexplore.ieee.org/document/10547379)
 
 ## 3. Enabling Technologies
 
