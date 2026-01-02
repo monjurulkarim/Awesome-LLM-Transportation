@@ -81,7 +81,7 @@ _Natural language interfaces for querying databases and orchestrating analysis t
 
 _LLMs acting as decision-making agents or assisting in control logic design._
 
-- **LLMLight:** Large Language Models as Traffic Signal Control Agents (Lai et al., 2023) - [arXiv](https://arxiv.org/abs/2305.07436)
+- **LLMLight:** Large Language Models as Traffic Signal Control Agents (Lai et al., 2023) - [arXiv](https://arxiv.org/pdf/2312.16044)
 - **Digital Traffic Engineers:** Large Language Model-Powered Digital Traffic Engineers (Dai et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10660467)
 - **LA-Light:** Leveraging LLM Capabilities for Human-Mimetic Traffic Signal Control (Wang et al., 2024d) - [arXiv](https://arxiv.org/abs/2403.08337)
 - **iLLM-TSC:** Integration Reinforcement Learning and LLM for Traffic Signal Control (Pang et al., 2024) - [arXiv](https://arxiv.org/abs/2407.06025)
