@@ -100,7 +100,7 @@ _Predicting next locations, synthesizing travel patterns, and itinerary planning
 - **Mobility-LLM:** Learning visiting intentions and travel preference (Gong et al., 2024) - [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/3fb6c52aeb11e09053c16eabee74dd7b-Paper-Conference.pdf)
 - **ITINERA:** Synergizing spatial optimization with LLMs for itinerary planning (Tang et al., 2024c) - [arXiv](https://arxiv.org/abs/2402.07204)
 - **Intelligent Trip Planning:** Framework for LLM-powered trip planning (Pio et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10771388)
-- **LingoTrip:** Spatiotemporal context prompt driven LLM for trip prediction (Qin et al., 2025) - [Paper](https://www.sciencedirect.com/science/article/pii/S1077291X24001309)
+- **LingoTrip:** Spatiotemporal context prompt driven LLM for trip prediction (Qin et al., 2025) - [Paper](https://www.sciencedirect.com/science/article/pii/S1077291X25000025)
 
 ### Trajectory Prediction
 
@@ -110,20 +110,20 @@ _Predicting movements of vehicles and pedestrians using sequence modeling._
 - **LC-LLM:** Explainable Lane-Change Intention and Trajectory Predictions (Peng et al., 2025) - [arXiv](https://arxiv.org/abs/2403.18344)
 - **HighwayLLM:** Decision-Making and Navigation in Highway Driving (Yildirim et al., 2024) - [arXiv](https://arxiv.org/abs/2405.13547)
 - **LG-Traj:** LLM Guided Pedestrian Trajectory Prediction (Chib & Singh, 2024) - [arXiv](https://arxiv.org/abs/2403.08032)
-- **Trajectory-LLM:** A language-based data generator for trajectory prediction (Yang et al., 2025b) - [OpenReview](https://openreview.net/forum?id=vU1oYVIHi3)
-- **InteractTraj:** Language-driven interactive traffic trajectory generation (Xia et al., 2024) - [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024)
+- **Trajectory-LLM:** A language-based data generator for trajectory prediction (Yang et al., 2025b) - [OpenReview](https://openreview.net/pdf?id=UapxTvxB3N)
+- **InteractTraj:** Language-driven interactive traffic trajectory generation (Xia et al., 2024) - [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/8e63972d4d9d81b31459d787466ce271-Paper-Conference.pdf)
 
 ### Simulation & Scenario Generation
 
 _Using natural language to generate scenarios for simulation (e.g., SUMO, CARLA)._
 
-- **ChatSUMO:** LLM for Automating Traffic Scenario Generation (Li et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10588471)
+- **ChatSUMO:** LLM for Automating Traffic Scenario Generation (Li et al., 2024b) - [IEEE](https://ieeexplore.ieee.org/document/10770822)
 - **Text2Scenario:** Text-Driven Scenario Generation for AD Test (Cai et al., 2025) - [arXiv](https://arxiv.org/abs/2503.02911)
-- **LLMScenario:** LLM Driven Scenario Generation (Chang et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10443396)
-- **ProSim:** Promptable Closed-Loop Traffic Simulation (Tan et al., 2024) - [CoRL](https://openreview.net/forum?id=CMmiMDj4Yx)
+- **LLMScenario:** LLM Driven Scenario Generation (Chang et al., 2024) - [IEEE](https://ieeexplore.ieee.org/document/10529537)
+- **ProSim:** Promptable Closed-Loop Traffic Simulation (Tan et al., 2024) - [arXiv](https://arxiv.org/pdf/2409.05863)
 - **Traffic Scene Generation from NL:** (Ruan et al., 2024) - [arXiv](https://arxiv.org/abs/2409.09575)
-- **SeGPT:** Scenario Engineer with ChatGPT (Li et al., 2024d) - [IEEE](https://ieeexplore.ieee.org/document/10422291)
-- **DIAVIO:** LLM-empowered diagnosis of safety violations (Lu et al., 2024) - [ACM](https://dl.acm.org/doi/10.1145/3650212.3680323)
+- **SeGPT:** Scenario Engineer with ChatGPT (Li et al., 2024d) - [IEEE](https://ieeexplore.ieee.org/document/10423819)
+- **DIAVIO:** LLM-empowered diagnosis of safety violations (Lu et al., 2024) - [ACM](https://dl.acm.org/doi/pdf/10.1145/3650212.3652135?casa_token=7miGjd_P_z4AAAAA:JedY3u40QxlnVrSwSHBDNs2j7axrFIrBNp-3N4R7onzaQJ3erUvdKNGSEFwcHMhmsu3KhS7aoNbK9w)
 
 ### Mode Choice & Parking
 
@@ -131,8 +131,8 @@ _Using natural language to generate scenarios for simulation (e.g., SUMO, CARLA)
 - **Can LLMs Capture Human Travel Behavior:** (Liu et al., 2024d) - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937575)
 - **Enhancing Travel Choice with LLMs:** (Zhai et al., 2024) - [arXiv](https://arxiv.org/abs/2406.13558)
 - **DelayPTC-LLM:** Metro passenger travel choice under delays (Chen et al., 2024) - [arXiv](https://arxiv.org/abs/2410.00052)
-- **Parking Planning Agent:** (Jin & Ma, 2024) - [Paper](https://www.sciencedirect.com/science/article/pii/S2210670724006255)
-- **Simulating Parking Search:** (Fulman et al., 2024) - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018154)
+- **Parking Planning Agent:** (Jin & Ma, 2024) - [Paper](https://www.sciencedirect.com/science/article/pii/S2210670724007649?casa_token=Wc9ZGL1gVOsAAAAA:-bSqxd7Slo9wclQ50VPLzNNNRbi6LYZvmPhGEMqSKbi4DgHnm71ZQ76g5nVC5uPsXb5U4V17H8w)
+- **Simulating Parking Search:** (Fulman et al., 2024) - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0965856425001703)
 
 ## 2. Roadway Safety Enhancement
 
