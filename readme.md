@@ -221,8 +221,4 @@ This is a living repository. We welcome contributions from the community!
 
 For questions or suggestions, please open an issue or contact the authors.
 
-## 📜 License
-
-This repository is maintained for academic purposes. Please cite our review paper if you use this resource in your research.
-
         
