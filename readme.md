@@ -22,7 +22,7 @@ If you find this list or our review useful for your research, please cite our pa
   issn = {3050-8606},
   doi = {10.1016/j.ait.2025.100004},
   url = {[https://www.sciencedirect.com/science/article/pii/S3050860625000043](https://www.sciencedirect.com/science/article/pii/S3050860625000043)},
-  author = {Muhammad Monjurul Karim and Yan Shi and Shucheng Zhang and Bingzhang Wang and Mehrdad Nasri and Yinhai Wang}
+  author = {Karim, Muhammad Monjurul and Shi, Yan and Zhang, Shucheng and Wang, Bingzhang and Nasri, Mehrdad and Wang, Yinhai}
 }
 ```
 
